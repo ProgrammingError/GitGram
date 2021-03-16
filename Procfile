@@ -1,1 +1,1 @@
-web: python3 GitGram.py
+Git: python3 GitGram.py
